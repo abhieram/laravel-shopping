@@ -1,0 +1,11 @@
+<script src="{{URL::asset('/js/bootstrap.bundle.min.js')}}"></script>
+<script src="{{URL::asset('/js/chart.min.js')}}"></script>
+<script src="{{URL::asset('/js/dynamic-pie-chart.js')}}"></script>
+<script src="{{URL::asset('/js/fullcalendar.js')}}"></script>
+<script src="{{URL::asset('/js/jvectormap.min.js')}}"></script>
+<script src="{{URL::asset('/js/loading-bar.min.js')}}"></script>
+<script src="{{URL::asset('/js/moment.min.js')}}"></script>
+<script src="{{URL::asset('/js/world-merc.js')}}"></script>
+<script src="{{URL::asset('/js/polyfill.js')}}"></script>
+<script src="{{URL::asset('/js/main.js')}}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/js/all.min.js"></script>
